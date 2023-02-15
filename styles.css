@@ -1,0 +1,90 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.ver{
+    writing-mode: vertical-lr;
+    -ms-writing-mode: tb-rl;
+    transform: rotate(180deg);
+    font-size: 30px;
+}
+.head{
+    background-color: #d9dade;
+    color: rgb(32, 32, 32);
+    padding: 0px 50px;
+    font-size: 48px;
+}
+body{
+    background-color: #044134;
+}
+table{
+    margin: 100px auto 100px auto;
+    width: 2342.95px;
+    min-width: 2342.95px;
+    max-width: 2342.95px;
+    border: 20px solid #d9dade;
+    border-collapse: collapse;
+    background-color: white;
+}
+td,th{
+    border: 20px solid #d9dade;
+    border-collapse: collapse;
+}
+.dt{
+    font-size: 26px;
+    background-color: #ff0082;
+    color: white;
+    padding: 30px 50px;
+}
+.mon{
+    font-size: 26px;
+    background-color: #008d62;
+    color: white;
+    padding: 30px 50px;
+}
+.tue{
+    font-size: 26px;
+    background-color: #f7b63e;
+    color: white;
+    padding: 30px 50px;
+}
+.wed{
+    font-size: 26px;
+    background-color: #56acdf;
+    color: white;
+    padding: 30px 50px;
+}
+.thu{
+    font-size: 26px;
+    background-color: #008d62;
+    color: white;
+    padding: 30px 50px;
+}
+.fri{
+    font-size: 26px;
+    background-color: #f7b63e;
+    color: white;
+    padding: 30px 50px;
+}
+.sat{
+    font-size: 26px;
+    background-color: #56acdf;
+    color: white;
+    padding: 30px 50px;
+}
+.sun{
+    font-size: 26px;
+    background-color: #008d62;
+    color: white;
+    padding: 30px 50px;
+}
+.time{
+    background-color: #56acdf;
+    color: white;
+    padding: 10px 30px;
+}
